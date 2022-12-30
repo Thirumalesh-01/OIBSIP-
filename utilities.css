@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+    /* background: cadetblue; */
+    font-family: sans-serif;
+  }
+  
+  .bg-red{
+    background-color: #f0dad4;
+    width: fit-content;
+    border-color: black;
+    border-radius: 12px;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
